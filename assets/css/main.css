@@ -2065,15 +2065,21 @@
 			}
 
 			.main > .content.style1 {
-				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #4fa4a4, #4f7aa4, #4fa47a);
+				background: url("images/bg-overlay2.png"), #D9EDED;
+				background-size: cover;
+				background-position: center;
 			}
 
 			.main > .content.style2 {
-				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #ada441, #ad6e41, #ad414a);
+				background: url("images/bg-overlay3.png"), #8fabab;
+				background-size: cover;
+				background-position: center;
 			}
 
 			.main > .content.style3 {
-				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #5f796b, #3a4e59, #2f394e);
+				background: url("images/bg-overlay4.png"), #516969;
+				background-size: contain;
+				background-position: center;
 			}
 
 			.main > .content.style4 {
